@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------------------
-# Copyright (c) Microsoft Corporation. All rights reserved. ( ff code aanpassen vor versie 1)
+# Copyright (c) Microsoft Corporation. All rights reserved. ( ff code aanpassen vor versie 4)
 # Licensed under the MIT License. See LICENSE in the project root for license information.
 #-----------------------------------------------------------------------------------------
 
